@@ -14,30 +14,30 @@ Not It is used for various tasks, ranging from generating texts which even human
 - start of “no-code AI”
 - https://twitter.com/mattshumer_/status/1287125015528341506?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1287125015528341506%7Ctwgr%5E&ref_url=https%3A%2F%2Fanalyticsindiamag.com%2Fopenai-gpt-3-model-machine-learning-products%2F 
 
-#####GPT-3 can create designs for apps - Jordan Singer
+##### GPT-3 can create designs for apps - Jordan Singer
 - future designers can work without coding skills
 - https://twitter.com/jsngr/status/1284511080715362304?lang=en
 
-#####Making two GPT-3 AIs chat each other on Stock Market, but they ended up talking about human limitations - Nikita Jerschow
+##### Making two GPT-3 AIs chat each other on Stock Market, but they ended up talking about human limitations - Nikita Jerschow
 - a mean to predict the future
 - https://twitter.com/nikita_jerschow/status/1283755514061520898 
 
-#####Layout Generator that can give you a JSX HTML code - Sharik Shameem
+##### Layout Generator that can give you a JSX HTML code - Sharik Shameem
 - Sharif Shameem has leveraged GPT-3 to generate code. All he had to do was write a couple of samples to give some context to GPT-3. Shareen tweeted that If he wanted to write output plain HTML/CSS instead of JSX, all he would have to do would be to rewrite the two initial samples in HTML/CSS. Then all of GPT-3’s outputs would be in plain HTML/CSS.
 - https://twitter.com/sharifshameem/status/1282676454690451457 
 
-#####GPT-3 can describe a Python code for you in simple English - Amjad Masad
+##### GPT-3 can describe a Python code for you in simple English - Amjad Masad
 - Amjad Masad, CEO of Replit, built an application where one can type queries about the code on the go and learn information about the functionality of each item in the code.
 - https://twitter.com/amasad/status/1285789362647478272?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1285789362647478272%7Ctwgr%5E&ref_url=https%3A%2F%2Fanalyticsindiamag.com%2Fopenai-gpt-3-model-machine-learning-products%2F 
 
-##GPT-3 Strengths and Weaknesses
-#####Strengths
+## GPT-3 Strengths and Weaknesses
+##### Strengths
 - Does not require fine-tuning
 - High quality generated text
 - Does not focus on one specific task like other language model do
 - It is the largest trained AI model
 - Highly accessible
-#####Weaknesses
+##### Weaknesses
 - Require a lot of resources(285k CPU cores and 10k high-end GPUs)
 - Cannot write large passages of coherent text due to limited context window
 - The model can gradually go off-topic, diverge from whatever purpose there was for the writing and become unable to come up with sensible continuations. 
