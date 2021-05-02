@@ -42,3 +42,11 @@ Not It is used for various tasks, ranging from generating texts which even human
 - Cannot write large passages of coherent text due to limited context window
 - The model can gradually go off-topic, diverge from whatever purpose there was for the writing and become unable to come up with sensible continuations. 
 - Ethical and social problems
+
+## References:
+[Link 1] (https://towardsdatascience.com/will-gpt-3-kill-coding-630e4518c04d)
+[Link 2] (https://techcrunch.com/2020/06/11/openai-makes-an-all-purpose-api-for-its-text-based-ai-capabilities/)
+[Link 3] (https://www.technologyreview.com/2020/09/23/1008729/openai-is-giving-microsoft-exclusive-access-to-its-gpt-3-language-model/)
+[Link 4] (https://www.thomsonreuters.com/en/artificial-intelligence/natural-language-processing.html)
+[Link 5] (https://www.zdnet.com/article/openais-gigantic-gpt-3-hints-at-the-limits-of-language-models-for-ai/)
+[Link 6] (https://analyticsindiamag.com/open-ai-gpt-3-language-model/)
