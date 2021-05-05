@@ -43,7 +43,7 @@ https://towardsdatascience.com/how-to-use-elmo-word-vectors-for-spam-classificat
 - When sentences are long/context is far away, LSTM models struggle
 
 ## References
-[Link 1] (https://towardsdatascience.com/elmo-why-its-one-of-the-biggest-advancements-in-nlp-7911161d44be)
+[Link 1] (https://towardsdatascience.com/elmo-why-its-one-of-the-biggest-advancements-in-nlp-7911161d44be) \n
 [Link 2] (https://medium.com/saarthi-ai/elmo-for-contextual-word-embedding-for-text-classification-24c9693b0045)
 [Link 3] (https://www.analyticsvidhya.com/blog/2019/03/learn-to-use-elmo-to-extract-features-from-text/)
 [Link 4] (https://web.stanford.edu/class/cs224n/slides/cs224n-2019-lecture13-contextual-representations.pdf)
